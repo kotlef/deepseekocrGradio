@@ -70,8 +70,8 @@
 
 ```bash
 cd /path/to/your/workspace
-git clone https://github.com/deepseek-ai/DeepSeek-OCR.git
-cd DeepSeek-OCR
+git clone https://github.com/kotlef/deepseekocrGradio.git
+cd deepseekocrGradio
 ```
 
 ### 2. 创建 Conda 环境
