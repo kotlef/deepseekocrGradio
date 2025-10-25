@@ -24,6 +24,7 @@
   - 🖼️ 图像描述：生成图像的详细描述
   - ⚙️ 自定义 Prompt：用户自定义识别任务
 <img width="1779" height="852" alt="image" src="https://github.com/user-attachments/assets/de914061-6d77-42d4-baac-f03cede1b79e" />
+<img width="2882" height="1856" alt="image" src="https://github.com/user-attachments/assets/1438a64b-51ac-4aca-af91-55241e4d4506" />
 
 - **多种分辨率模式**
   - Tiny (512×512)：快速处理小图像
