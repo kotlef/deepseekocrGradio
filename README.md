@@ -86,6 +86,7 @@ conda activate deepseek-ocr
 
 ```bash
 # 安装基础依赖
+pip install torch==2.6.0 torchvision==0.21.0 torchaudio==2.6.0
 pip install -r requirements.txt
 
 # 安装 Gradio
