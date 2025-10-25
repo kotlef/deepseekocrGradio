@@ -92,7 +92,7 @@ pip install -r requirements.txt
 # 安装 Gradio
 pip install gradio
 
-# 替换 huggingface的modeling_deepseekocr.py
+# 替换 huggingface的modeling_deepseekocr.py ，这一步很重要，这是替换cuda下model解析图片的py。
 cp gradio_app/modeling_deepseekocr_fixed.py /[YourPath]/.cache/huggingface/modules/transformers_modules/deepseek-ai/DeepSeek-OCR/[968c903185ba632ccc137b22d78ba01d14611ee1]/modeling_deepseekocr.py
 ```
 
